@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MinedValuable.label>Mined valuable</MinedValuable.label>
-  <MinedValuable.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] mining a rich vein of [material_label]</MinedValuable.rulePack.rulesStrings.0>
-  <MinedValuable.rulePack.rulesStrings.1>image->[pawn_nameFull] working a [material_label] wall with mining tools, [circumstance_group]</MinedValuable.rulePack.rulesStrings.1>
-  <MinedValuable.rulePack.rulesStrings.2>image->[pawn_nameFull] holding up a chunk of [material_label], [circumstance_group]</MinedValuable.rulePack.rulesStrings.2>
-  <MinedValuable.rulePack.rulesStrings.3>image->[pawn_nameFull] resting against a wall of [material_label], [circumstance_group]</MinedValuable.rulePack.rulesStrings.3>
-  <MinedValuable.rulePack.rulesStrings.4>image->[pawn_nameFull] coordinating an excavation team against a rich vein of [material_label], [circumstance_group]</MinedValuable.rulePack.rulesStrings.4>
-  <MinedValuable.rulePack.rulesStrings.5>image->[pawn_nameFull] carefully inspecting a rich vein of [material_label], [circumstance_group]</MinedValuable.rulePack.rulesStrings.5>
+  <MinedValuable.label>Valeur extraite</MinedValuable.label>
+  <MinedValuable.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] en extrayant une veine riche en [material_label]</MinedValuable.rulePack.rulesStrings.0>
+  <MinedValuable.rulePack.rulesStrings.1>image->[pawn_nameFull] en travaillant un mur en [material_label] avec des outils, [circumstance_group]</MinedValuable.rulePack.rulesStrings.1>
+  <MinedValuable.rulePack.rulesStrings.2>image->[pawn_nameFull] en tenant un morceau de [material_label], [circumstance_group]</MinedValuable.rulePack.rulesStrings.2>
+  <MinedValuable.rulePack.rulesStrings.3>image->[pawn_nameFull] en s'appuyant contre un mur de [material_label], [circumstance_group]</MinedValuable.rulePack.rulesStrings.3>
+  <MinedValuable.rulePack.rulesStrings.4>image->[pawn_nameFull] en coordonnant une équipe d'excavation sur une veine riche en [material_label], [circumstance_group]</MinedValuable.rulePack.rulesStrings.4>
+  <MinedValuable.rulePack.rulesStrings.5>image->[pawn_nameFull] en inspectant soigneusement une veine riche en [material_label], [circumstance_group]</MinedValuable.rulePack.rulesStrings.5>
   <MinedValuable.rulePack.rulesStrings.6>circumstance_phrase->sweating heavily</MinedValuable.rulePack.rulesStrings.6>
   <MinedValuable.rulePack.rulesStrings.7>circumstance_phrase->wearing a [friendlyadjective] expression</MinedValuable.rulePack.rulesStrings.7>
   <MinedValuable.rulePack.rulesStrings.8>circumstance_phrase->wearing a [friendlyadjective] expression</MinedValuable.rulePack.rulesStrings.8>
