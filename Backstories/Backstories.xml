@@ -1293,18 +1293,17 @@ Apprenant vite, HE aiguisa ses talents et, si ce n'est une incapacité paralysan
 		<desc>NAME était un(e) ingénieur(e) responsable de la production d'aéroplanes et de vaisseaux spatiaux. HECAP se concentrait sur l'amélioration de l'ergonomie des lignes de production et était connu(e) pour son expertise sur les problèmes techniques et de recherche.</desc>
 	</AerospaceEngineer58>
 	<WildChild8>
-		<title>Wild child</title>
-		<titleShort>Wild child</titleShort>
-		<desc>NAME was abandoned on a toxic world overgrown with hostile plant life. HECAP became accustomed early to the cold burn of loneliness.
-
-HE learned to fight, but ate his food raw and uncooked.</desc>
+		<title>Enfant Sauvage</title>
+		<titleShort>Enfant Sauvage</titleShort>
+		<desc>NAME fut abandonné sur une planète toxique envahi par une végétation hostile. HECAP s'est vite accoutumé à la froideur de la solitude.
+HE a appris à combattre, mais mange sa nourriture crue et froide.</desc>
 	</WildChild8>
 	<AlcoholicTrucker38>
-		<title>Alcoholic trucker</title>
-		<titleShort>Alcoholic</titleShort>
-		<desc>NAME was a space trucker working for Arcknight Industries when he killed his wife and daughter in a crash.
+		<title>Routier Alcoolique</title>
+		<titleShort>Alcoolique</titleShort>
+		<desc>NAME était un routier spatial travaillant pour 'Arcknight Industries' lorsqu'il tua sa femme et sa fille dans un accident.
 
-His body was repaired with an experimental nano-genetic therapy. Now his muscles continually regenerate and harden, and every movement tears the tissue anew. He bears the pain in silence.</desc>
+Son corps fut réparé à l'aide d'une thérapie nano-génétique expérimentale. Désormais, ses muscles se régénèrent et durcissent en permanence, et chaque mouvement déchire les nouveaux tissus. Il supporte la douleur en silence.</desc>
 	</AlcoholicTrucker38>
 	<HackerProdigy70>
 		<title>Prodige du hacking</title>
@@ -1331,18 +1330,18 @@ HECAP apprit rapidement à jouer avec les peurs de ses concitoyens et fut dorén
 		<desc>NAME était à la tête d'un clan tribal sur une planète néolithique. Pour HIM, le champ de bataille était un jeu et il n'y avait rien de plus beau que les flammes de la guerre.</desc>
 	</WarChief54>
 	<YouthDelinquent81>
-		<title>Youth delinquent</title>
-		<titleShort>Delinquent</titleShort>
-		<desc>NAME was the only child of celebrity sommeliers. Her parents expected her to take up the family profession, but after her third admission to a youth detention center, this career path became unlikely.
+		<title>Jeune délinquant</title>
+		<titleShort>Delinquant</titleShort>
+		<desc>NAME était l'unique enfant de célèbres sommeliers. Ses parents espéraient qu'HE reprendrait l'activité familiale, mais cette possibilité de carrière sembla peu probable après la troisième admission dans un centre de délinquance juvénile.
 
-While in detention, NAME became skilled at making shanks and developed an interest in orinthology.</desc>
+Lors de ses détentions, NAME devint expert(e) de la fabrication de surins et développa un intérêt pour l'ornithologie.</desc>
 	</YouthDelinquent81>
 	<InvoluntaryHermit72>
-		<title>Involuntary hermit</title>
-		<titleShort>Hermit</titleShort>
-		<desc>NAME’s escape pod was jettisoned onto an unexplored region of a frontier world. She eked out a lonely existence with only a herd of muffalo for company.
+		<title>Hermite involontaire</title>
+		<titleShort>Hermite</titleShort>
+		<desc>La capsule de sauvetage de NAME fut laché dans une des régions inxeplorée d'un monde de la bordure. HECAP survécut en solitaire, avec un troupeau de muffalo pour seule compagnie.
 
-Later, she was spotted clad in pygmy wombat furs, discussing the importance of hoof hygiene with a group of elderly muffalo.</desc>
+HECAP fut repéré(e) bien plus tard, recouvert(e) de fourrures de wombat, en pleine discussion avec de vieux muffalos sur l'importance de l'hygiène des sabots.</desc>
 	</InvoluntaryHermit72>
 	<HillbillyProdigy33>
 		<title>Hillbilly prodigy</title>
